@@ -10,4 +10,5 @@ Research Code:
 1. "[Combining forecasts: Can machines beat the average?](https://github.com/tylerJPike/)" with Francisco Vazquez-Grande, September 2020
 2. "[Bottom-up leading macroeconomic indicators: An application to non-financial corporate defaults using machine learning](https://github.com/tylerJPike/BottomUpMacroIndicators)" with   Horacio Sapriza, and Tom Zimmermann, September 2019
 
+---
 If you have questions, concerns, or would like to collaborate, please feel free to contact me via my personal [website](https://tylerjpike.github.io/) or my [Linkedin](https://www.linkedin.com/in/tyler-j-pike/).
