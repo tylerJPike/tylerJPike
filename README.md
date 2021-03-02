@@ -5,7 +5,7 @@ I am an aspiring econometrician and data scientist seeking to bridge the gap bet
 R Packages:  
 1. [OOS](https://github.com/tylerJPike/OOS) for out-of-sample time series forecasting  [[Package website](https://tylerjpike.github.io/OOS/)]
 2. [sovereign](https://github.com/tylerJPike/sovereign) for state-dependent empirical analysis
-3. [treeImpulse](https://github.com/tylerJPike/treeImpulses) for tree-based impulse response functions
+3. [treeImpulses](https://github.com/tylerJPike/treeImpulses) for tree-based impulse response functions
 
 Research Code: 
 1. "[Combining forecasts: Can machines beat the average?](https://github.com/tylerJPike/)" with Francisco Vazquez-Grande, September 2020
