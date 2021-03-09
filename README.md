@@ -8,7 +8,7 @@ R Packages:
 3. [treeImpulses](https://github.com/tylerJPike/treeImpulses) for tree-based impulse response functions
 
 Research Code: 
-1. "[Combining forecasts: Can machines beat the average?](https://github.com/tylerJPike/)" with Francisco Vazquez-Grande, September 2020
+1. "[Combining forecasts: Can machines beat the average?](https://github.com/tylerJPike/CanMachinesBeatTheAverage)" with Francisco Vazquez-Grande, September 2020
 2. "[Bottom-up leading macroeconomic indicators: An application to non-financial corporate defaults using machine learning](https://github.com/tylerJPike/BottomUpMacroIndicators)" with   Horacio Sapriza, and Tom Zimmermann, September 2019
 
 ---
