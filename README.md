@@ -3,8 +3,8 @@
 I am an aspiring econometrician and data scientist seeking to bridge the gap between economics and artificial intelligence. My research interests include machine learning for both forecasting and causal inference, quantitative finance (particularly asset pricing and financial conditions),  and the transmission channels between the financial sector, markets, and real economy. I am currently serving as a research assistant at the Federal Reserve Board in the Macro-Financial Analysis section of the Division of Monetary Affairs. I additionally serve as a research assistant for Vice Chair Clarida.
 
 R Packages:  
-1. [OOS](https://github.com/tylerJPike/OOS) for out-of-sample time series forecasting  [[Package website](https://tylerjpike.github.io/OOS/)]
-2. [sovereign](https://github.com/tylerJPike/sovereign) for state-dependent empirical analysis [[Package website](https://tylerjpike.github.io/sovereign/)]
+1. [OOS](https://github.com/tylerJPike/OOS) for out-of-sample time series forecasting  [[GitHub](https://github.com/tylerJPike/OOS), [Website](https://tylerjpike.github.io/OOS/), [CRAN](https://cran.r-project.org/web/packages/OOS/index.html)]
+2. [sovereign](https://github.com/tylerJPike/sovereign) for state-dependent empirical analysis [[GitHub](https://github.com/tylerJPike/sovereign), [Website](https://tylerjpike.github.io/sovereign/)]
 3. [treeImpulses](https://github.com/tylerJPike/treeImpulses) for tree-based impulse response functions
 
 Research Code: 
