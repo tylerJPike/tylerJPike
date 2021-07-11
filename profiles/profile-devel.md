@@ -1,12 +1,14 @@
 
-# <p align=center> Tyler J. Pike </p>
-## <p align=center> PhD Candidate in Economics | Statistical Software Engineer </p>
+<p align=center> <span style="color:green; font-size:3em;">Tyler J. Pike </span> </p>
+<p align=center> <span style="font-size:1.5em;">PhD Candidate in Economics | Statistical Software Engineer</span> </p>
+
 ---
-Research interests:
+
+<span style="color:green"> Research Interests</span>
 1. **Statistics and econometrics**: I am generally interested in how we extract information from data, with a particular focus on using non-linear and big data methods for causal inference.
 2. **Macro-finance**: I am also interested in the way we as humans allocate resources (capital) across various economic activities, and the consequences of this allocation on production, inflation, and labor market outcomes.
 
-Selected background:
+<span style="color:green"> Selected Background </span>
 1. University of Maryland   
 *current position*
     - PhD candidate in Economics
@@ -17,7 +19,7 @@ Selected background:
     - BS in Mathematical Economics 
     - Research Assistant and Research Fellow  
 
-Selected Research Code: 
+<span style="color:green"> Selected Research Code </span>
 1. "Combining forecasts: Can machines beat the average?"   
 with Francisco Vazquez-Grande, September 2020  
 [Github](https://github.com/tylerJPike/CanMachinesBeatTheAverage) | [Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3691117)
@@ -26,8 +28,7 @@ with Francisco Vazquez-Grande, September 2020
 with Horacio Sapriza, and Tom Zimmermann, September 2019  
 [Github](https://github.com/tylerJPike/BottomUpMacroIndicators) | [Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3473056)
 
-
-R Packages:  
+<span style="color:green"> R Packages </span>
 1. **OOS** for out-of-sample time series forecasting   
 [Github](https://github.com/tylerJPike/OOS) | [Website](https://tylerjpike.github.io/OOS/) | [CRAN](https://cran.r-project.org/web/packages/OOS/index.html)
 
