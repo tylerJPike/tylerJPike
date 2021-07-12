@@ -5,13 +5,13 @@
 ---
 
 <span style="color:green"> Research Interests</span>
-1. **Statistics and econometrics**: I am generally interested in how we extract information from data, with a particular focus on using non-linear and big data methods for causal inference.
-2. **Macro-finance**: I am also interested in the way we as humans allocate resources (capital) across various economic activities, and the consequences of this allocation on production, inflation, and labor market outcomes.
+1. **Statistics and econometrics**: I am interested in how we extract information from data, with a particular focus on using traditional econometric and modern machine learning techniques for causal inference.
+2. **Macro-finance**: I am also interested in the way that we allocate resources (capital) across various economic activities - both in the system by which we move capital and the allocations themselves - and the consequences of these systems and allocations on production, inflation, and labor market outcomes.
 
-<span style="color:green"> Selected Background </span>
+<span style="color:green"> Research Background </span>
 1. University of Maryland   
 *current position*
-    - PhD candidate in Economics
+    - PhD candidate in economics
 2. Federal Reserve Board 
     - Research Assistant to Vice Chair Clarida 
     - Sr. Research Assistant in Macro-Financial Analysis section of the Division of Monetary Affairs  
@@ -28,7 +28,7 @@ with Francisco Vazquez-Grande, September 2020
 with Horacio Sapriza, and Tom Zimmermann, September 2019  
 [Github](https://github.com/tylerJPike/BottomUpMacroIndicators) | [Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3473056)
 
-<span style="color:green"> R Packages </span>
+<span style="color:green"> Statistical Software Packages </span>
 1. **OOS** for out-of-sample time series forecasting   
 [Github](https://github.com/tylerJPike/OOS) | [Website](https://tylerjpike.github.io/OOS/) | [CRAN](https://cran.r-project.org/web/packages/OOS/index.html)
 
