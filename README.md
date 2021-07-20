@@ -1,6 +1,6 @@
 
 # <p align=center> <span style="color:green; font-size:3em;">Tyler J. Pike </span> </p>
-## <p align=center> <span style="font-size:1.5em;">PhD Candidate in Economics | Statistical Software Engineer</span> </p>
+## <p align=center> <span style="font-size:1.5em;">Economics PhD Student | Statistical Software Engineer</span> </p>
 
 ---
 
