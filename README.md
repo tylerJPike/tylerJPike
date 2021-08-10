@@ -11,7 +11,7 @@
 <span style="color:green"> Research Background </span>
 1. University of Maryland   
 *current position*
-    - PhD candidate in economics
+    - PhD student in economics
 2. Federal Reserve Board 
     - Research Assistant to Vice Chair Clarida 
     - Sr. Research Assistant in Macro-Financial Analysis section of the Division of Monetary Affairs  
