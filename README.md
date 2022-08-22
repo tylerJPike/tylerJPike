@@ -1,23 +1,21 @@
 
 # <p align=center> <span style="color:green; font-size:3em;">Tyler J. Pike </span> </p>
-## <p align=center> <span style="font-size:1.5em;">PhD Candidate in Economics | Statistical Software Engineer</span> </p>
 
----
-
-<span style="color:green"> Research Interests</span>
-1. **Statistics and econometrics**: I am interested in how we extract information from data, with a particular focus on using traditional econometric and modern machine learning techniques for causal inference.
-2. **Macro-finance**: I am also interested in the way that we allocate resources (capital) across various economic activities - both in the system by which we move capital and the allocations themselves - and the consequences of these systems and allocations on production, inflation, and labor market outcomes.
+<span style="color:green"> Research Interests</span>  
+1. Macroeconomics: Macro-Finance, Monetary Policy, Firm Dynamics 
+2. Econometrics: Non-linear statistics and machine learning, time series analysis and macroeconometrics
 
 <span style="color:green"> Research Background </span>
 1. University of Maryland   
 *current position*
-    - PhD candidate in economics
+    - PhD student in economics
+    - Research Assistant to John Haltiwanger
 2. Federal Reserve Board 
     - Research Assistant to Vice Chair Clarida 
-    - Sr. Research Assistant in Macro-Financial Analysis section of the Division of Monetary Affairs  
+    - Research Assistant to Macro-Financial Anlaysis Section   
 3. University of Richmond
     - BS in Mathematical Economics 
-    - Research Assistant and Research Fellow  
+    - Economics Research Assistant and Research Fellow  
 
 <span style="color:green"> Selected Research Code </span>
 1. "Combining forecasts: Can machines beat the average?"   
